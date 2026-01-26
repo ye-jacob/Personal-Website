@@ -12,3 +12,20 @@
     object-fit: contain;
     flex-shrink: 0;
 }
+
+.profile-section p {
+    margin: 0;
+    flex: 1;
+}
+
+.navigation {
+    text-align: center;
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.navigation a {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 0 1.5rem;
+    text-decoration: none;
+}
